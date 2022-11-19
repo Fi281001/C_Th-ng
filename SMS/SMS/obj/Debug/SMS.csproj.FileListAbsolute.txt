@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.GUI_Student.resources
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\SMS\SMS\bin\Debug\SMS.exe.config
+C:\Users\Admin\Desktop\c#\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\Admin\Desktop\c#\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\Admin\Desktop\c#\SMS\SMS\bin\Debug\ClassLibrary1.dll
+C:\Users\Admin\Desktop\c#\SMS\SMS\bin\Debug\DAL_SMS.dll
+C:\Users\Admin\Desktop\c#\SMS\SMS\bin\Debug\ClassLibrary1.pdb
+C:\Users\Admin\Desktop\c#\SMS\SMS\bin\Debug\DAL_SMS.pdb
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.csproj.CopyComplete
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.pdb
+C:\Users\Admin\Desktop\c#\SMS\SMS\obj\Debug\SMS.GUI_Subject.resources

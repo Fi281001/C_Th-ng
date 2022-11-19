@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\obj\Debug\BUS_SMS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\obj\Debug\BUS_SMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\bin\Debug\DAL_SMS.dll
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\bin\Debug\DAL_SMS.pdb
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\obj\Debug\BUS_SMS.csproj.CopyComplete
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Admin\Desktop\c#\SMS\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

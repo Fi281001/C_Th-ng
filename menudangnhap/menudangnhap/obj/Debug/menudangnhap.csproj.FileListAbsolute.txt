@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\bin\Debug\menudangnhap.exe.config
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\bin\Debug\menudangnhap.exe
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\bin\Debug\menudangnhap.pdb
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.Properties.Resources.resources
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.exe
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.pdb
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.frmChinh.resources
+C:\Users\Admin\Desktop\c#\menudangnhap\menudangnhap\obj\Debug\menudangnhap.frmDangNhap.resources

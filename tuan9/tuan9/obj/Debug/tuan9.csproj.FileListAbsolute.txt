@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\bin\Debug\tuan9.exe.config
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\bin\Debug\tuan9.exe
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\bin\Debug\tuan9.pdb
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.Form1.resources
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.Properties.Resources.resources
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.exe
+C:\Users\Admin\Desktop\c#\tuan9\tuan9\obj\Debug\tuan9.pdb

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\c#\entity\entity\bin\Debug\entity.exe.config
+C:\Users\Admin\Desktop\c#\entity\entity\bin\Debug\entity.exe
+C:\Users\Admin\Desktop\c#\entity\entity\bin\Debug\entity.pdb
+C:\Users\Admin\Desktop\c#\entity\entity\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\c#\entity\entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\c#\entity\entity\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\c#\entity\entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.butDelete.resources
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.Properties.Resources.resources
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.csproj.CopyComplete
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.exe
+C:\Users\Admin\Desktop\c#\entity\entity\obj\Debug\entity.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\c#\SMS\DAL_SMS\bin\Debug\DAL_SMS.dll
+C:\Users\Admin\Desktop\c#\SMS\DAL_SMS\bin\Debug\DAL_SMS.pdb
+C:\Users\Admin\Desktop\c#\SMS\DAL_SMS\obj\Debug\DAL_SMS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\SMS\DAL_SMS\obj\Debug\DAL_SMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\SMS\DAL_SMS\obj\Debug\DAL_SMS.dll
+C:\Users\Admin\Desktop\c#\SMS\DAL_SMS\obj\Debug\DAL_SMS.pdb
